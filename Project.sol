@@ -1,8 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.7.3;
 
-//Election.deployed().then(function(instance) {app = instance})
-contract Election {
+contract Project {
     
     struct Manager {
         uint id;
